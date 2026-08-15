@@ -1,5 +1,12 @@
 # LeetCode Solutions | Data Structures and Algorithms (DSA)
 
+[![Stars](https://img.shields.io/github/stars/ismaeelkhaleel/leetcode?style=flat-square)](https://github.com/ismaeelkhaleel/leetcode/stargazers)
+[![Forks](https://img.shields.io/github/forks/ismaeelkhaleel/leetcode?style=flat-square)](https://github.com/ismaeelkhaleel/leetcode/network/members)
+[![Last Commit](https://img.shields.io/github/last-commit/ismaeelkhaleel/leetcode?style=flat-square)](https://github.com/ismaeelkhaleel/leetcode/commits/main)
+[![License](https://img.shields.io/github/license/ismaeelkhaleel/leetcode?style=flat-square)](LICENSE)
+[![Made with Java](https://img.shields.io/badge/Java-✓-orange?style=flat-square)](.)
+[![Made with JavaScript](https://img.shields.io/badge/JavaScript-✓-yellow?style=flat-square)](.)
+
 Welcome to this **LeetCode Solutions** repository.
 
 This repository is a collection of my solutions to LeetCode problems, written primarily in **Java** or **JavaScript**. Every solution is organized with a focus on readability, maintainability, and learning. Along with the source code, each problem includes detailed documentation explaining the problem statement, examples, constraints, test cases, and one or more solution approaches.
@@ -7,6 +14,14 @@ This repository is a collection of my solutions to LeetCode problems, written pr
 The objective of this repository is not only to solve LeetCode problems but also to build a comprehensive reference for **Data Structures and Algorithms (DSA)**, **coding interview preparation**, **competitive programming**, and continuous problem-solving practice.
 
 Whether you are a beginner learning algorithms or an experienced developer preparing for technical interviews, this repository aims to provide structured and well-explained solutions that are easy to understand and revisit.
+
+---
+
+# ⚡ Powered by an Auto-Push Extension
+
+Every solution in this repository is pushed **automatically** the moment I solve a problem on LeetCode — using a custom browser extension I built myself. No manual copy-pasting, no missed commits. Solve → Accept → Auto-committed with explanation, complexity analysis, and structured docs.
+
+> Interested in the extension itself, how it works, or want one for your own workflow? Open an issue or check my profile — happy to share details.
 
 ---
 
@@ -151,6 +166,7 @@ Key highlights include:
 * Beginner-friendly explanations
 * Easy navigation
 * Continuous updates with new LeetCode problems
+* Solutions committed automatically via a custom-built browser extension
 
 ---
 
@@ -177,6 +193,7 @@ The repository will continue to grow with:
 * Additional programming languages
 * More interview-focused problems
 * Better documentation and examples
+* Open-sourcing the auto-push extension (planned)
 
 ---
 
@@ -186,10 +203,10 @@ LeetCode, LeetCode Solutions, DSA, Data Structures and Algorithms, Algorithms, P
 
 ---
 
-# Support the Repository
+# ⭐ Support the Repository
 
 If you find this repository helpful for learning Data Structures and Algorithms, preparing for coding interviews, or practicing LeetCode problems, please consider giving it a **Star**.
 
 Your support helps increase the visibility of the repository, motivates continued development, and makes these resources easier for other developers and students to discover.
 
-If you found even one solution useful, a Star is greatly appreciated.
+If you found even one solution useful, a Star is greatly appreciated. 🙌
